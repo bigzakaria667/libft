@@ -6,7 +6,7 @@
 /*   By: zel-ghab <zel-ghab@student.s19.be>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/10/23 18:05:09 by zel-ghab          #+#    #+#             */
-/*   Updated: 2024/11/17 20:44:42 by zel-ghab         ###   ########.fr       */
+/*   Updated: 2025/02/27 18:46:26 by zel-ghab         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -116,8 +116,7 @@ char	**ft_split(char const *s, char c)
 /*
 int	main(void)
 {
-	char	**split;
-
+	char **split;
 	split = ft_split("Zakaria-El-Ghabri", '-');
 	return (0);
 }
